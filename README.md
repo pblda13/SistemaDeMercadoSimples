@@ -33,3 +33,5 @@ Bem-vindo ao Supermercado do Zé! Esta é uma aplicação em Java que simula um 
 
 
 Esperamos que a aplicação do Supermercado do Zé seja útil para você. Boas compras!
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FSistemaDeMercadoSimples&label=VISITORS&labelColor=%23f47373&countColor=%23d9e3f0)
